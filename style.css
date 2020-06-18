@@ -1,6 +1,7 @@
 body
 {
-background-image:url('image/55.jpg');		
+background:url('image/55.jpg') no-repeat center center;
+background-size:cover;		
 }
 .titre
 {
